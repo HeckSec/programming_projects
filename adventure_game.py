@@ -204,7 +204,7 @@ def golden_door():
     else:
         print("--" * 20)
         print("--" * 20)
-        print("Keep trying!\n You're very close!")
+        print("Keep trying!\n You are very close!")
         print("(I actually don't know if you're close, but I figured there is nothing wrong with encouragement.)")
         print("--" * 20)
         print("--" * 20)
