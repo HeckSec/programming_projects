@@ -4,7 +4,7 @@
 
 from operator import xor
 
-### Sample XOR
+### Sample XOR operation
 a = bool(1)
 b = bool(0)
 print(a^b)
