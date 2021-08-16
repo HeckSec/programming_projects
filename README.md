@@ -1,3 +1,3 @@
 # Programming_projects
-Various scripts that I've created throughout my journey of learning the art of programming. 
+Various python and bash scripts I've created for fun and to assist with Bug Bounties
 
