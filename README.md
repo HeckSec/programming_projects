@@ -1,3 +1,3 @@
 # Programming_projects
-Various python and bash scripts I've created for fun and to assist with Bug Bounties
+Repo of various programs, binaries, articles, etc that assist with CTFs, bounties, and training platforms.
 
